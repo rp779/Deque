@@ -4,6 +4,7 @@ Basically, all we have done here is wrap a deque inside a class template and let
 
 
 The code for this Deque template was used from:
+
       ADTs, Data Structures, and Problem Solving with C++, 2nd Edition
       By Larry R. Nyhoff
       Published Jul 26, 2004 by Pearson.
